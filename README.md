@@ -986,11 +986,8 @@ public String deleteBook(@PathVariable("bookId") int id) {
 到目前为止，这个SSM项目整合已经完全的OK了，可以直接运行进行测试！这个练习十分的重要，大家需要保证，不看任何东西，自己也可以完整的实现出来！
 
 **项目结构图** 
-
-<img src="C:/Users/zhuhezhang/Desktop/狂神说java笔记和源码/Spring.assets/1086489242.png" alt="1570186854191.png" style="zoom:80%;float:left" />
-
-<img src="C:/Users/zhuhezhang/Desktop/狂神说java笔记和源码/Spring.assets/2326667495.png" alt="1570186868239.png" style="zoom:80%;float:left" />
-
+<img src="README.assets/1086489242.png" alt="1570186854191.png" style="zoom:80%;float:left" />
+<img src="README.assets/2326667495.png" alt="1570186868239.png" style="zoom:80%;float:left" />
 ### 小结及展望
 
 第一个SSM整合案例，一定要烂熟于心！
