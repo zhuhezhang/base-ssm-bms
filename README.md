@@ -1,8 +1,7 @@
 ## 1 整合SSM
 
 ### 1.1 整合的思路
-
-<img src="C:/Users/zhuhezhang/Desktop/狂神说java笔记和源码/SpringMVC.assets/1586921554980.png" alt="1586921554980" style="zoom: 50%;float:left" />
+<img src="README.assets/1586921554980.png" alt="1586921554980" style="zoom: 50%;float:left" />
 
 #### ① spirng与mybatis整合
 
