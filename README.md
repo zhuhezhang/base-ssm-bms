@@ -1,7 +1,8 @@
 ## 1 整合SSM
 
 ### 1.1 整合的思路
-<img src="README.assets/1586921554980.png" alt="1586921554980" style="zoom: 50%;float:left" />
+
+<img src="https://img-blog.csdnimg.cn/9289b378c3bd490283d24536e0f88ee9.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzNzk0NjMz,size_16,color_FFFFFF,t_70#pic_center" alt="1586921554980" style="zoom: 50%;float:left" />
 
 #### ① spirng与mybatis整合
 
@@ -986,8 +987,8 @@ public String deleteBook(@PathVariable("bookId") int id) {
 到目前为止，这个SSM项目整合已经完全的OK了，可以直接运行进行测试！这个练习十分的重要，大家需要保证，不看任何东西，自己也可以完整的实现出来！
 
 **项目结构图** 
-<img src="README.assets/1086489242.png" alt="1570186854191.png" style="zoom:80%;float:left" />
-<img src="README.assets/2326667495.png" alt="1570186868239.png" style="zoom:80%;float:left" />
+<img src="https://img-blog.csdnimg.cn/a3f4fb59f73849b793bc0fd4f0242fb5.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzNzk0NjMz,size_16,color_FFFFFF,t_70#pic_center" alt="1570186854191.png" style="zoom:80%;float:left" />
+<img src="https://img-blog.csdnimg.cn/00f6a5ba51384845931fd914dafbecd1.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzNzk0NjMz,size_16,color_FFFFFF,t_70#pic_center" alt="1570186868239.png" style="zoom:80%;float:left" />
 ### 小结及展望
 
 第一个SSM整合案例，一定要烂熟于心！
