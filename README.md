@@ -989,8 +989,3 @@ public String deleteBook(@PathVariable("bookId") int id) {
 **项目结构图** 
 <img src="https://img-blog.csdnimg.cn/a3f4fb59f73849b793bc0fd4f0242fb5.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzNzk0NjMz,size_16,color_FFFFFF,t_70#pic_center" alt="1570186854191.png" style="zoom:80%;float:left" />
 <img src="https://img-blog.csdnimg.cn/00f6a5ba51384845931fd914dafbecd1.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzNzk0NjMz,size_16,color_FFFFFF,t_70#pic_center" alt="1570186868239.png" style="zoom:80%;float:left" />
-### 小结及展望
-
-第一个SSM整合案例，一定要烂熟于心！
-
-SSM框架的重要程度是不言而喻的，学到这里，已经可以进行基本网站的单独开发。但是这只是增删改查的基本操作。可以说学到这里，才算是真正的步入了后台开发的门。也就是能找一个后台相关工作的底线。
